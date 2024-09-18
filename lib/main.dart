@@ -5,6 +5,7 @@ void main() {
   runApp(const MainApp());
 }
 
+//TODO: Maybe Add autogeenration for json (json_serializable and build_runner)).
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
